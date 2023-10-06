@@ -1,0 +1,28 @@
+<html>
+<title>html</title>
+<head><center><font size="12">Sample Basic Html Task By Hussain</center></head>
+<body>
+<h1 style="color:white;background-color:Blue;font-family:calibri;font-size:50"><center>Place Description:Himalayas</center></h1>
+<p><font size="4">The Himalayas, or Himalaya from Sanskrit himá 'snow, frost', and ā-laya 'dwelling is a mountain range in Asia, separating the plains of the <span style="color:Orange;">Indian subcontinent from the Tibetan Plateau.</span> The range has some of the Earth's highest peaks, including the highest, Mount Everest; more than 100 peaks exceeding elevations of 7,200 m (23,600 ft) above sea level lie in the Himalayas.</p>
+
+<p>The Himalayas abut or cross five countries: Nepal, China, Pakistan, Bhutan and India. The sovereignty of the range in the Kashmir region is disputed among India, Pakistan, and China.[4] The Himalayan range is bordered on the northwest by the Karakoram and Hindu Kush ranges, on the north by the Tibetan Plateau, and on the south by the Indo-Gangetic Plain. Some of the world's major rivers, the Indus, the Ganges, and the Tsangpo–Brahmaputra, rise in the vicinity of the Himalayas, and their combined drainage basin is home to some 600 million people; 53 million people live in the Himalayas.[5] The Himalayas have profoundly shaped the cultures of South Asia and Tibet. <span style="color:Orange;">Many Himalayan peaks are sacred in Hinduism and Buddhism.</span> The summits of several—Kangchenjunga (from the Indian side), Gangkhar Puensum, Machapuchare, Nanda Devi, and Kailas in the Tibetan Transhimalaya—are off-limits to climbers.</p>
+<center><img src="https://media.istockphoto.com/id/513247652/photo/panoramic-beautiful-view-of-mount-ama-dablam.jpg?s=612x612&w=0&k=20&c=5MWcvFfiJzmxMZ6olmyd14Q-OskUmbg33KS8LwFnb_0="
+alt="mountain"></center><br>
+<center><video width="580" height="360" controls>
+<source src="https://player.vimeo.com/external/189545487.sd.mp4?s=8cd2af1ec08f7ce121a5a6a09c78c05237943524&profile_id=164&oauth2_token_id=57447761" type="video/mp4"></video></center>
+<center><table border='1';>
+
+<th>s.no
+</th>
+<th>place</th>
+<th>region</th>
+<th>height</th>
+<th>area</th>
+<tr>
+<td>1</td>
+<td>Himalays</td>
+<td>North-East</td>
+<td>8,848mts</td>
+<td>550,000sqkm</td>
+</table></center>
+</html>
